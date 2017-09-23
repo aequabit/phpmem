@@ -1,0 +1,14 @@
+php-7.1.9-lib/*
+!php-7.1.9-lib/.gitkeep
+php-7.1.9-src/*
+!php-7.1.9-src/.gitkeep
+src/.vs/*
+src/Debug/*
+src/Release/*
+src/x64/*
+src/phpmem/Debug/*
+src/phpmem/Release/*
+src/phpmem/x64/*
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.user
