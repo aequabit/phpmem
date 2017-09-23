@@ -3,9 +3,14 @@
 [Precompiled binaries](https://github.com/aequabit/phpmem/releases)
 
 ### Credits
-- @frk1 and @ReactiioN for his [HazeDumper](https://github.com/frk1/hazedumper)
+- @frk1 and @ReactiioN for their [HazeDumper](https://github.com/frk1/hazedumper)
 - @imi-tat0r for some C++ help
 - @php for the PHP SDK
+
+### Todo
+- make the API fully object-oriented (`new PHPMem('csgo.exe')`...)
+- signature scanning
+- shellcode execution?
 
 ### Requirements
 - Windows 7+
