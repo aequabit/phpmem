@@ -1,6 +1,8 @@
 <?php
 /** PHPMem test script */
 
+/** Simple glow and incross triggerbot for CS:GO */
+
 require __DIR__.'/../phpmem_polyfill.php';
 require __DIR__.'/csgo.php';
 

@@ -1,5 +1,12 @@
 # phpmem - A PHP Memory Hacking Extension
 
+[Precompiled binaries](https://github.com/aequabit/phpmem/releases)
+
+### Credits
+- @frk1 and @ReactiioN for his [HazeDumper](https://github.com/frk1/hazedumper)
+- @imi-tat0r for some C++ help
+- @php for the PHP SDK
+
 ### Requirements
 - Windows 7+
 - Visual Studio 2015
@@ -11,7 +18,10 @@
 - copy `php-7.1.9/dev/php7.lib` to `php-7.1.9-lib`
 - open `src/phpmem.sln` and build the solution
 - for installation instructions visit [the PHP docs](http://php.net/manual/de/install.pecl.windows.php#install.pecl.windows.loading)
+
+### Info
 - when developing, make sure to `require` `phpmem_polfill.php`. It provides the data types for `ReadProcessMemory` and `WriteProcessMemory`
+- if you need CS:GO offsets, you can use my [HazeDumper parser](https://github.com/aequabit/hazedumper-php) for PHP
 
 ### Documentation
 Opens a handle to a process.  
