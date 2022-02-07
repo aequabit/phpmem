@@ -15,8 +15,8 @@
 ### Requirements
 - Windows 7+
 - Visual Studio 2015
-- [PHP 7.1.9 x64 non thread safe](http://windows.php.net/downloads/releases/php-7.1.9-nts-Win32-VC14-x64.zip)
-- [PHP 7.1.9 source code](http://windows.php.net/downloads/releases/php-7.1.9-src.zip)
+- [PHP 7.1.9 x64 non thread safe](https://windows.php.net/downloads/releases/archives/php-7.1.9-nts-Win32-VC14-x64.zip)
+- [PHP 7.1.9 source code](https://windows.php.net/downloads/releases/archives/php-7.1.9-src.zip)
 
 ### Setup
 - extract the PHP source into `php-7.1.9-src` and the PHP binaries into `php-7.1.9`
